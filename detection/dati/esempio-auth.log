@@ -1,0 +1,47 @@
+2026-10-05T08:20:00.682554+00:00 ubuntuserver sshd-session[1007]: Accepted publickey for ubuntuserver from 10.0.2.4 port 44943 ssh2
+2026-10-05T09:03:00.098702+00:00 ubuntuserver sshd-session[1016]: Accepted publickey for ubuntuserver from 10.0.2.4 port 42373 ssh2
+2026-10-05T10:12:05.445140+00:00 ubuntuserver sshd-session[1029]: Failed password for ubuntuserver from 10.0.2.10 port 42972 ssh2
+2026-10-05T10:12:14.993473+00:00 ubuntuserver sshd-session[1031]: Accepted password for ubuntuserver from 10.0.2.10 port 41936 ssh2
+2026-10-05T11:10:00.605136+00:00 ubuntuserver sshd-session[1032]: Failed password for invalid user root from 198.51.100.23 port 60664 ssh2
+2026-10-05T11:23:00.048845+00:00 ubuntuserver sshd-session[1036]: Failed password for invalid user admin from 198.51.100.23 port 41624 ssh2
+2026-10-05T11:38:00.439499+00:00 ubuntuserver sshd-session[1041]: Failed password for invalid user test from 198.51.100.23 port 44363 ssh2
+2026-10-05T11:47:00.598646+00:00 ubuntuserver sshd-session[1043]: Failed password for invalid user oracle from 198.51.100.23 port 57717 ssh2
+2026-10-05T12:23:00.953893+00:00 ubuntuserver sshd-session[1017]: Accepted publickey for ubuntuserver from 10.0.2.4 port 59096 ssh2
+2026-10-05T13:01:00.000001+00:00 ubuntuserver sudo[2101]: ubuntuserver : TTY=pts/0 ; PWD=/home/ubuntuserver ; USER=root ; COMMAND=/usr/bin/apt update
+2026-10-05T14:30:03.108061+00:00 ubuntuserver sshd-session[1046]: Failed password for invalid user oracle from 203.0.113.45 port 62347 ssh2
+2026-10-05T14:30:05.746702+00:00 ubuntuserver sshd-session[1055]: Failed password for invalid user backup from 203.0.113.45 port 43192 ssh2
+2026-10-05T14:30:06.520528+00:00 ubuntuserver sshd-session[1059]: Failed password for invalid user postgres from 203.0.113.45 port 41953 ssh2
+2026-10-05T14:30:10.379146+00:00 ubuntuserver sshd-session[1067]: Failed password for invalid user backup from 203.0.113.45 port 55256 ssh2
+2026-10-05T14:30:13.085831+00:00 ubuntuserver sshd-session[1071]: Failed password for invalid user test from 203.0.113.45 port 45890 ssh2
+2026-10-05T14:30:16.764878+00:00 ubuntuserver sshd-session[1077]: Failed password for invalid user oracle from 203.0.113.45 port 56223 ssh2
+2026-10-05T14:30:20.123800+00:00 ubuntuserver sshd-session[1079]: Failed password for invalid user guest from 203.0.113.45 port 59954 ssh2
+2026-10-05T14:30:24.159367+00:00 ubuntuserver sshd-session[1085]: Failed password for invalid user user from 203.0.113.45 port 64809 ssh2
+2026-10-05T14:30:28.801710+00:00 ubuntuserver sshd-session[1087]: Failed password for invalid user ftp from 203.0.113.45 port 41284 ssh2
+2026-10-05T14:30:31.623241+00:00 ubuntuserver sshd-session[1093]: Failed password for invalid user backup from 203.0.113.45 port 62783 ssh2
+2026-10-05T14:30:35.880770+00:00 ubuntuserver sshd-session[1095]: Failed password for invalid user postgres from 203.0.113.45 port 54948 ssh2
+2026-10-05T14:30:36.063616+00:00 ubuntuserver sshd-session[1097]: Failed password for invalid user guest from 203.0.113.45 port 55535 ssh2
+2026-10-05T14:30:39.298420+00:00 ubuntuserver sshd-session[1105]: Failed password for invalid user postgres from 203.0.113.45 port 62322 ssh2
+2026-10-05T14:30:43.372731+00:00 ubuntuserver sshd-session[1113]: Failed password for invalid user backup from 203.0.113.45 port 40739 ssh2
+2026-10-05T14:30:45.061818+00:00 ubuntuserver sshd-session[1121]: Failed password for invalid user postgres from 203.0.113.45 port 43836 ssh2
+2026-10-05T14:30:47.417225+00:00 ubuntuserver sshd-session[1125]: Failed password for invalid user guest from 203.0.113.45 port 44238 ssh2
+2026-10-05T14:30:51.471007+00:00 ubuntuserver sshd-session[1128]: Failed password for invalid user www from 203.0.113.45 port 42640 ssh2
+2026-10-05T14:30:55.859077+00:00 ubuntuserver sshd-session[1131]: Failed password for invalid user oracle from 203.0.113.45 port 49104 ssh2
+2026-10-05T14:30:59.740710+00:00 ubuntuserver sshd-session[1136]: Failed password for ubuntuserver from 203.0.113.45 port 58029 ssh2
+2026-10-05T14:31:03.241960+00:00 ubuntuserver sshd-session[1143]: Failed password for ubuntuserver from 203.0.113.45 port 51756 ssh2
+2026-10-05T14:31:05.158647+00:00 ubuntuserver sshd-session[1146]: Failed password for ubuntuserver from 203.0.113.45 port 42719 ssh2
+2026-10-05T14:31:07.012649+00:00 ubuntuserver sshd-session[1150]: Failed password for ubuntuserver from 203.0.113.45 port 61578 ssh2
+2026-10-05T14:31:11.275509+00:00 ubuntuserver sshd-session[1153]: Failed password for ubuntuserver from 203.0.113.45 port 59304 ssh2
+2026-10-05T14:31:14.439297+00:00 ubuntuserver sshd-session[1156]: Failed password for ubuntuserver from 203.0.113.45 port 40134 ssh2
+2026-10-05T14:31:17.999395+00:00 ubuntuserver sshd-session[1162]: Failed password for ubuntuserver from 203.0.113.45 port 59982 ssh2
+2026-10-05T14:31:19.996382+00:00 ubuntuserver sshd-session[1171]: Failed password for ubuntuserver from 203.0.113.45 port 62626 ssh2
+2026-10-05T14:31:20.411439+00:00 ubuntuserver sshd-session[1180]: Failed password for ubuntuserver from 203.0.113.45 port 54963 ssh2
+2026-10-05T14:31:24.108566+00:00 ubuntuserver sshd-session[1187]: Failed password for ubuntuserver from 203.0.113.45 port 53073 ssh2
+2026-10-05T14:31:27.065271+00:00 ubuntuserver sshd-session[1194]: Accepted password for ubuntuserver from 203.0.113.45 port 55778 ssh2
+2026-10-05T15:32:00.090122+00:00 ubuntuserver sshd-session[1018]: Accepted publickey for ubuntuserver from 10.0.2.4 port 47035 ssh2
+2026-10-05T16:05:32.462030+00:00 ubuntuserver sshd-session[1198]: Failed password for invalid user admin from 192.0.2.77 port 42206 ssh2
+2026-10-05T16:06:02.629908+00:00 ubuntuserver sshd-session[1204]: Failed password for invalid user admin from 192.0.2.77 port 43602 ssh2
+2026-10-05T16:06:25.594315+00:00 ubuntuserver sshd-session[1205]: Failed password for invalid user admin from 192.0.2.77 port 43354 ssh2
+2026-10-05T16:06:54.995044+00:00 ubuntuserver sshd-session[1207]: Failed password for invalid user admin from 192.0.2.77 port 57583 ssh2
+2026-10-05T16:07:37.073731+00:00 ubuntuserver sshd-session[1208]: Failed password for invalid user admin from 192.0.2.77 port 60110 ssh2
+2026-10-05T16:08:10.155766+00:00 ubuntuserver sshd-session[1215]: Failed password for invalid user admin from 192.0.2.77 port 60121 ssh2
+2026-10-05T17:27:00.252353+00:00 ubuntuserver sshd-session[1020]: Accepted publickey for ubuntuserver from 10.0.2.4 port 53702 ssh2
