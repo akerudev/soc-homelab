@@ -1,0 +1,19 @@
+# File di sistema del Mac
+.DS_Store
+
+# Mai pubblicare: configurazioni e credenziali del laboratorio
+config.xml
+*.tar
+*.key
+*.pem
+*.pfx
+*.p12
+*password*
+*credenziali*
+
+# Macchine virtuali e catture complete
+*.utm
+*.qcow2
+*.iso
+*.pcap
+*.pcapng
